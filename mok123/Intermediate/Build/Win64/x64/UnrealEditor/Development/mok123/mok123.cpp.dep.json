@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\oms\\desktop\\yenalulu\\mok123\\source\\mok123\\mok123.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\oms\\desktop\\yenalulu\\mok123\\intermediate\\build\\win64\\x64\\mok123editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\oms\\desktop\\yenalulu\\mok123\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mok123\\definitions.mok123.h",
+            "c:\\users\\oms\\desktop\\yenalulu\\mok123\\source\\mok123\\mok123.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

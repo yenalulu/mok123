@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "mok123",
+			"Path": "..\\Source\\mok123.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "mok123Editor",
+			"Path": "..\\Source\\mok123Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
